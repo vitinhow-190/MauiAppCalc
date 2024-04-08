@@ -23,7 +23,7 @@
                 para_aparecer_no_visor == "*" ||
                 para_aparecer_no_visor == "/") 
             {
-                para_aparecer_no_visor = " ";
+                para_aparecer_no_visor = "";
             }
         }
 
